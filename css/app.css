@@ -24,3 +24,21 @@ img {
     margin-bottom: 0px;
 }
 
+main div img {
+    height: 250px;
+}
+
+.image-description {
+    margin: 0px 0px;
+    font-size: 12px;
+}
+
+.highlighted {
+    background-color: yellow;
+}
+
+#list {
+    padding-left: 20px;
+}
+/* Da chiedere sui 20 px */
+
