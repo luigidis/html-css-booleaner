@@ -42,3 +42,34 @@ main div img {
 }
 /* Da chiedere sui 20 px */
 
+#final {
+    margin-top: 10px;
+}
+
+footer img {
+    padding: 0px;
+}
+
+footer h3 {
+    color: grey;
+    font-size: 20px;
+}
+
+#pubblicità-1 {
+    background-image: url("/img/monitor.jpg");
+    height: 150px;
+    color: white;
+    background-repeat: no-repeat;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+#pubblicità-2 {
+    background-image: url("/img/graph.jpg");
+    height: 150px;
+    color: white;
+    background-repeat: no-repeat;
+    font-size: 25px;
+    font-weight: bold;
+}
+
