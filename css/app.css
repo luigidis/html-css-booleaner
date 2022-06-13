@@ -2,9 +2,25 @@
     background-image: url("/img/pattern.png");
     background-color: aqua;
     height: 150px;
+    
 }
 
 img {
     height: 100px;
     padding-top: 50px;
 }
+
+.writer {
+    color: grey;
+    margin-top: 0px;
+    
+}
+
+#author {
+    color: aqua
+}
+
+.title {
+    margin-bottom: 0px;
+}
+
