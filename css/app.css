@@ -58,7 +58,7 @@ footer h3 {
 }
 
 #pubblicità-1 {
-    background-image: url("/img/monitor.jpg");
+    background-image: url("../img/monitor.jpg");
     height: 150px;
     color: white;
     background-repeat: no-repeat;
@@ -67,7 +67,7 @@ footer h3 {
 }
 
 #pubblicità-2 {
-    background-image: url("/img/graph.jpg");
+    background-image: url("../img/graph.jpg");
     height: 150px;
     color: white;
     background-repeat: no-repeat;
@@ -84,3 +84,12 @@ footer h3 {
 .row-2 {
     background-color: rgb(0, 245, 245);
 }
+
+table {
+    border-collapse: collapse;
+}
+
+th, td {
+    text-align: justify;
+}
+
