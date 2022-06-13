@@ -87,9 +87,13 @@ footer h3 {
 
 table {
     border-collapse: collapse;
+    block-size: 150px;
+    text-align: left;
 }
 
 th, td {
-    text-align: justify;
+    padding: 10px;
 }
+
+
 
