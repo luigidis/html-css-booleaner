@@ -26,6 +26,7 @@ img {
 
 main div img {
     height: 250px;
+    padding: 0px;
 }
 
 .image-description {
